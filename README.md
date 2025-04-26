@@ -14,7 +14,7 @@ Tudo empacotado com **Docker** via `docker-compose`.
 #### 1. Clone ou baixe este repositório
 
 ```bash
-git clone https://github.com/seu-usuario/inventario.git
+git clone https://github.com/jeannefernanda/inventario.git
 cd inventario
 ```
 
