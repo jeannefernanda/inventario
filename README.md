@@ -45,8 +45,8 @@ docker-compose up --build
 - **MySQL**:
   - Host: `localhost`
   - Porta: `3306`
-  - Usuário: `user`
-  - Senha: `pass`
+  - Usuário: `root`
+  - Senha: `root`
   - Banco: `inventario`
 
 ---
